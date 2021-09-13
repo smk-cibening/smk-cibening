@@ -29,7 +29,7 @@ Mewujudkan Peserta didik yang memilikindaya saing berkarakter dan di dasari ahla
 11. Mekanik
 12. Multimedia
 
-#Fasilitas
+# Fasilitas
 1. Lab Komputer Standart UNBK
 2. Lab Akutansi
 3. Bengkel Sepeda Motor Berstandar HONDA
@@ -44,5 +44,4 @@ Mewujudkan Peserta didik yang memilikindaya saing berkarakter dan di dasari ahla
 * Akutansi
 
 
-## Dibuat Oleh
-[Acep Triana](https://github.com/aceptriana)
+
