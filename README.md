@@ -3,7 +3,7 @@
 <p>SMK Cibening Kecamatan Cibingbin Kabupaten Kuningan merupakan sekolah dibawah Yayasan Umar Syahir Cibingbin yang didirikan untuk memenuhi kebutuhan masyrakat Kecamatan Cibingbin, Kecamatan Cibeureum Kabupaten Brebes dalam upaya peningkatan kualitas Pendidikan dibidang Teknologi Informasi dan Komunikasi juga bidang lainnya. Keberadaan SMK sangat dibutuhkan karena belum ada diwilayah tersebut diatas, sehingga pada tahun 2016 SMK Cibening berdiri dan mulai menerima siswa baru. Pada tahun pelajaran 2019 / 2020 SMK Cibening kembali membuka penerimaan peserta didik baru </p>
 
 # Visi
-Mewujudkan Peserta didik yang memilikindaya saing berkarakter dan di dasari ahlak yang mulia
+Mewujudkan Peserta didik yang memiliki daya saing berkarakter dan di dasari ahlak yang mulia
 
 # Misi
 1. Pemenuhan tenaga pendidik yang prefesional dan berkeunggulan
